@@ -1,0 +1,23 @@
+.frame
+{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.button {
+    width: 5rem;
+    height: 3rem;
+    font-weight: solid;
+}
+
+.controls {
+    height: 3rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    color: #40404080;
+    letter-spacing: 0;
+}
